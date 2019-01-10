@@ -1,1 +1,2 @@
 It is a dog!
+it is a cat!
