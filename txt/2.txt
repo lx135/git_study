@@ -1,2 +1,6 @@
 It is a dog!
+<<<<<<< HEAD
 it is a cat!
+=======
+大发大师傅
+>>>>>>> fbdfdb2dff4be5114519ef1ce57c99234fabe27a
